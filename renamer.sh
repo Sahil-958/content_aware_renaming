@@ -76,7 +76,7 @@ get_caption() {
         echo "$response" >> "$response_file"
     fi 
  
-    if [ -n "$space_replacement" ] && [ "${new#ERROR_}" != "$new" ]; then
+    if [ -n "$space_replacement" ] && [ "${caption_text#ERROR_}" == "$caption_text" ]; then
     caption_text="${caption_text// /$space_replacement}"        
     fi 
 
