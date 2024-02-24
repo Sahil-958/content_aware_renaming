@@ -4,7 +4,10 @@ This Bash script facilitates image processing using the Microsoft Vision API. It
 
 
 
-https://github.com/Sahil-958/content_aware_renaming/assets/118348625/977792ae-68f2-4d5e-ae82-3784ff731d14
+
+
+https://github.com/Sahil-958/content_aware_renaming/assets/118348625/e9ad943e-86ab-440f-9cf9-8930b7bc86c4
+
 
 
 

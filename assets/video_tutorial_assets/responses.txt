@@ -1,0 +1,6 @@
+{"modelVersion":"2023-10-01","captionResult":{"text":"a tower with a building and trees","confidence":0.6234179139137268},"metadata":{"width":2220,"height":1373}}
+{"modelVersion":"2023-10-01","captionResult":{"text":"a small plant in a pot","confidence":0.7750575542449951},"metadata":{"width":1920,"height":1080}}
+{"modelVersion":"2023-10-01","captionResult":{"text":"a waterfall over rocks","confidence":0.6397457122802734},"metadata":{"width":3840,"height":2160}}
+{"modelVersion":"2023-10-01","captionResult":{"text":"a cartoon of a girl wearing a helmet","confidence":0.778312087059021},"metadata":{"width":3840,"height":2160}}
+{"modelVersion":"2023-10-01","captionResult":{"text":"a rocky landscape with trees and water in the background","confidence":0.7080347537994385},"metadata":{"width":3264,"height":2448}}
+{"modelVersion":"2023-10-01","captionResult":{"text":"a rock formation with a hole in the middle","confidence":0.6749824285507202},"metadata":{"width":4896,"height":3264}}

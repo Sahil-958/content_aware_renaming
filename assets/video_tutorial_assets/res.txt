@@ -1,6 +1,0 @@
-{"modelVersion":"2023-10-01","captionResult":{"text":"a close up of a fern","confidence":0.7044568657875061},"metadata":{"width":1920,"height":1080}}
-{"modelVersion":"2023-10-01","captionResult":{"text":"a close up of pink flowers","confidence":0.7234376668930054},"metadata":{"width":5019,"height":3346}}
-{"modelVersion":"2023-10-01","captionResult":{"text":"a close up of leaves","confidence":0.7331322431564331},"metadata":{"width":1920,"height":1080}}
-{"modelVersion":"2023-10-01","captionResult":{"text":"a cartoon of a person with their hands on their face","confidence":0.7151979207992554},"metadata":{"width":1920,"height":1080}}
-{"modelVersion":"2023-10-01","captionResult":{"text":"a cartoon of a girl standing under a tree with purple flowers","confidence":0.7383579015731812},"metadata":{"width":1200,"height":1200}}
-{"modelVersion":"2023-10-01","captionResult":{"text":"a black and pink circle with a blue background","confidence":0.6175211071968079},"metadata":{"width":4537,"height":2552}}
