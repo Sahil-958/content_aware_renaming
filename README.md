@@ -107,12 +107,14 @@ The script supports various command-line options:
 
 - `-h`: Print usage information.
 - `-key <API_KEY>`: Set the Microsoft Vision API key.
+- `-kf <API_KEY FILE>`: Set the Microsoft Vision API key from a file.
 - `-endpoint <ENDPOINT_URL>`: Set the Microsoft Vision API endpoint URL.
 - `-p <NUM>`: Set the concurrency level (maximum number of images to process concurrently). Default is 3.
 - `-r <RESPONSE_FILE>`: Save API responses to a file.
 - `-l <LOG_FILE>`: Save logs to a file.
 - `-sr <REPLACEMENT>`: Specify a replacement character for spaces in image names.
 - `-sf <SINGLE_FILE>`: Process a single image file instead of a directory.
+- `-d <DEPTH>`: Set the depth of subdirectories to search for images. By Default all subdirectories are searched if depth is not specified or set to 0.
 
 Example usage:
 
