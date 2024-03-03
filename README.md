@@ -115,6 +115,7 @@ The script supports various command-line options:
 - `-sr <REPLACEMENT>`: Specify a replacement character for spaces in image names.
 - `-sf <SINGLE_FILE>`: Process a single image file instead of a directory.
 - `-d <DEPTH>`: Set the depth of subdirectories to search for images. By Default all subdirectories are searched if depth is not specified or set to 0.
+- `-R` : Let you review the changes in your preffered editor set by $EDITOR var before renaming the files.
 
 Example usage:
 
